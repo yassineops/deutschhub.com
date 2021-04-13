@@ -1,0 +1,176 @@
+body{
+  background-image:url(../imgs/berlin.jpeg);
+}
+.firstbox{
+  text-align: center;
+  margin:20px 20px 40px 20px ;
+}
+.mainheading{
+  color: white;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 40px;
+  font-weight: bold;
+  text-shadow:4px 4px 5px #FA8072 ;
+}
+.secondbox{
+  background-color: #F5F5F5;
+  border-radius: 15px;
+font-size:1.5em;
+margin: 20px;
+padding: 40px;
+text-shadow:2px 2px 3px #9932CC;
+box-shadow:3px 3px #9400D3;
+}
+.thirdbox{
+  background-color: #F5F5F5;
+  border-radius: 15px;
+font-size:1.5em;
+margin: 20px;
+padding: 40px;
+text-shadow:2px 2px 3px #9932CC;
+box-shadow:3px 3px #9400D3;
+}
+.fourthbox{
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-size:20px;
+  margin: 20px;
+  padding:20px;
+  font-weight: bold;
+  text-shadow:4px 4px 5px #9932CC;}
+
+.secondbox:hover{
+transform: scale(1.02);
+}
+.thirdbox:hover{
+  transform: scale(1.02);
+}
+a{
+  background-color: #DDA0DD;
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  text-shadow: 2px 2px 2px  #FA8072;
+  padding: 20px;
+  margin:20px;
+  border-radius:30px;
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  text-transform: uppercase;
+  box-sizing: border-box;
+  background: linear-gradient(#FFB6C1,#87CEEB);
+  text-align: center;
+}
+.a1:hover{
+  transform: scale(1.2);
+}
+
+.h_1 {
+  text-align: center;
+font-size:1.5em;
+margin: 20px;
+padding: 40px;
+text-shadow:2px 2px 3px #9932CC;
+color: white;
+}
+.firstboxpage2{
+  color: white;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-size:20px;
+  margin: 20px;
+  padding:20px;
+  font-weight: bold;
+  text-shadow:4px 4px 5px #9932CC;}
+}
+.a2:hover{
+  transform: scale(1.2);
+}
+.secondboxpage2{
+  text-align: center;
+  width: 300px;
+  padding:20px;
+  position: absolute;
+  margin: 15px 800px 15px 500px;
+  border-radius: 15px;
+  background-color: #000000 ;
+  font-size:1.5rem;
+  text-shadow:2px 2px 3px #9932CC;
+  box-shadow: 3px 3px #9400D3;
+}
+.secondboxpage2 h1{
+  color: white;
+  text-transform: uppercase;
+  font-weight: 500px;
+}
+.secondboxpage2 input[ type ="text"], .secondboxpage2 input[ type ="password"]{
+  border: 0;
+  background: none;
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+  border: 2px solid #00FFFF;
+  padding: 14px 10px;
+  width: 200px;
+  outline: none;
+  border-radius: 20px;
+  transition: 0.25s ;
+  color: white;
+}
+.secondboxpage2 input[ type ="text"]:focus, .secondboxpage2 input[ type ="password"]:focus {
+  width: 280px;
+  border-color: #8B008B;
+}
+.secondboxpage2 input[ type="submit"]{
+  background: none;
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+  border: 2px solid #00FFFF;
+  padding: 14px ;
+  width: 100px;
+  border-radius: 20px;
+  transition: 0.25s;
+  cursor: pointer;
+  outline: none;
+  color: #A9A9A9;
+}
+.secondboxpage2 input[ type="submit"]:hover{
+background: #8B008B;
+transform: scale(1.02);
+}
+.firstboxpage3{
+    font-family: 'Playfair Display', serif;
+    font-size:20px;
+    margin: 20px;
+    padding:20px;
+    font-weight: bold;
+    text-shadow:4px 4px 5px #9932CC;
+}
+.secondboxpage3{
+  background-color: #F5F5F5;
+  border-radius: 15px;
+font-size:1.5em;
+margin: 20px;
+padding: 40px;
+text-shadow:2px 2px 3px #9932CC;
+box-shadow:3px 3px #9400D3;
+}
+.p_1{
+  color: red;
+  padding: 10px;
+  ;
+}
+.p_2{
+  color:#1E90FF;
+    padding: 10px;
+}
+.thirdboxpage3{
+  background-color: #F5F5F5;
+  border-radius: 15px;
+font-size:1.5em;
+margin: 20px;
+padding: 40px;
+text-shadow:2px 2px 3px #9932CC;
+box-shadow:3px 3px #9400D3;
+}
